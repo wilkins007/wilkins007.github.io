@@ -12,4 +12,4 @@ permalink: /links/
 
 * [lizelong](http://lizelong.com)
 * [liangzhi](http://3maio.com)
-* [wilkins](http://mazhuang.org)
+* [wilkins](https://wilkins007.github.io)
