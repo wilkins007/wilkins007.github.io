@@ -4,8 +4,8 @@
 baseurl:
 url: https://wilkins007.github.io/
 date_format: "ordinal"
-title: 博客
-subtitle: "打码爱好者"
+title: Wilkins的博客
+subtitle: "The most difficult thing is the decision to act. And the rest is merely tenacity."
 description: "钟伟建的个人博客"
 keywords: 博客, Wilkins Zhong, zwjlogin, wilinks
 favicon: /favicon.ico
@@ -40,7 +40,7 @@ navs:
 
   -
     href: /links/
-    label: 链接
+    label: 友情链接
 
   -
     href: /about/
