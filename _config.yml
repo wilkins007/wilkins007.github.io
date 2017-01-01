@@ -35,8 +35,8 @@ navs:
     label: 分类
 
   -
-    href: /wiki/
-    label: 维基
+    href: /command/
+    label: 编程小技巧总结
 
   -
     href: /links/
