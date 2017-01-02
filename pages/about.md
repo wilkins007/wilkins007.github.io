@@ -19,7 +19,7 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/wilkins007)
+* GitHub：[@zwjlogin](https://github.com/wilkins007)
 * 博客：[{{ site.title }}]({{ site.url }})
 
 ## Skill Keywords
